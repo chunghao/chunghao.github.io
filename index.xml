@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hao Chung</title>
+    <link>http://chunghao.github.io/</link>
+      <atom:link href="http://chunghao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hao Chung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 chunghao</copyright><lastBuildDate>Sat, 31 Aug 2019 14:55:14 +0800</lastBuildDate>
+    <image>
+      <url>http://chunghao.github.io/img/icon-192.png</url>
+      <title>Hao Chung</title>
+      <link>http://chunghao.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Notes</title>
+      <link>http://chunghao.github.io/notes/</link>
+      <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
+      <guid>http://chunghao.github.io/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://chunghao.github.io/resources/</link>
+      <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
+      <guid>http://chunghao.github.io/resources/</guid>
+      <description>&lt;p&gt;Below are some useful resources and links that help my academic carear a lot!&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/resources/knuth_mathematical_writing.pdf&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://chunghao.github.io/talks/</link>
+      <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
+      <guid>http://chunghao.github.io/talks/</guid>
+      <description>&lt;p&gt;Computational Complexity &lt;a href=&#34;http://chunghao.github.io/talks/computational_complexity.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
