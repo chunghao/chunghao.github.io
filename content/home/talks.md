@@ -1,45 +1,16 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = false  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
-
-title = "Recent & Upcoming Talks"
+title = "Talks"
 subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
-  
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
-  
-  # Choose how many pages you would like to offset by
-  offset = 0
-
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
-
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    exclude_featured = false
-    exclude_past = false
-    exclude_future = false
-    
 [design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-  
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -47,19 +18,23 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color = "#ECF0F1"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+  # image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  # text_color_light = true  
-  
+  text_color_light = false
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 [advanced]
  # Custom CSS. 
  css_style = ""
@@ -67,3 +42,66 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+#### Blockchains with Proof-of-Stake [\[slides\]](/talks/PoSblockchain.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Summer School for Cryptography in Academia Sinica (July 29, 2019)
+  
+
+#### Computational Complexity [\[slides\]](/talks/computational_complexity.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Summer School for Cryptography in Academia Sinica (July 17, 2017), (July 18, 2019)
+
+
+#### Cryptographic Primitives in DEXON [\[slides\]](/talks/VRF_BLS_DKG.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DEXON foundation public course with _Po-Chun Kuo_ (Jan 2, 2019)
+
+
+#### Zero Knowledge Salon [\[slides\]](/talks/zk.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+DEXON foundation internal training with _Po-Chun Kuo_ (Oct 31, 2018)
+
+
+####  Quantum Cryptanalysis - Shor Algorithm and Grover Algorithm [\[slides\]](/talks/ShorGrover.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Summer School for Cryptography in Academia Sinica (Aug 2, 2018)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+National Chung-Shan Institute of Science and Technology (Sep 6, 2017), (Sep 13, 2017)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+NTU Cryptanalysis course final report (Dec 5, 2017)
+
+#### The Post-Processing of Quantum Key Distribution [\[slides\]](/talks/postProcessingQKD.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+NTUEE group seminar (May 1, 2018)
+
+
+#### Security of Quantum Key Distribution from Cryptographic Perspectives [\[slides\]](/talks/secureQKD.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+NTUEE group seminar (March 22, 2018)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

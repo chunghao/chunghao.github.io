@@ -47,12 +47,12 @@ subtitle = ""
   
   By Tzu-Wei Chao, Hao Chung, and Po-Chun Kuo
   
-  [\[arXiv\]](https://arxiv.org/abs/1907.03437)
+[\[arXiv\]](https://arxiv.org/abs/1907.03437) [\[PDF\]](/files/FairByzantineAgreements.pdf)
 
 
 
-**DEXON: A highly scalable, decentralized DAG-based consensus algorithm**
+**Analysis and Comparison of Security Proofs of Quantum Key Distribution**
 
-  By Tai-Yuan Chen, Wei-Ning Huang, Po-Chun Kuo, Hao Chung, and Tzu-Wei Chao
+  My master thesis
 
-[\[ePrint\]](https://eprint.iacr.org/2018/1112)
+[\[PDF\]](/files/ntumasterthesis.pdf)
