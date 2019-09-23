@@ -17,7 +17,11 @@
       <link>http://chunghao.github.io/notes/</link>
       <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
       <guid>http://chunghao.github.io/notes/</guid>
-      <description></description>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;sampleSpace.pdf&#34; target=&#34;_blank&#34;&gt;Sample Space and Probability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/no_cloning.pdf&#34;&gt;No-Cloning Theorem&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
     </item>
     
     <item>
@@ -38,8 +42,7 @@
       <link>http://chunghao.github.io/talks/</link>
       <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
       <guid>http://chunghao.github.io/talks/</guid>
-      <description>&lt;p&gt;Computational Complexity &lt;a href=&#34;http://chunghao.github.io/talks/computational_complexity.pdf&#34;&gt;PDF&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
