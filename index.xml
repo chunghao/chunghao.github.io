@@ -17,8 +17,13 @@
       <link>http://chunghao.github.io/notes/</link>
       <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
       <guid>http://chunghao.github.io/notes/</guid>
-      <description>&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;sampleSpace.pdf&#34; target=&#34;_blank&#34;&gt;Sample Space and Probability&lt;/a&gt;&lt;/li&gt;
+      <description>&lt;p&gt;Writing usually helps me think deeper.
+These notes are designed for quick references, but not for a tutorial read from cover to cover.
+The materials mainly focus on definitions, theorems, proofs and some conceptual interpretations.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/sampleSpace.pdf&#34;&gt;Sample Space and Probability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/vectorSpace.pdf&#34;&gt;Vector Space&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/no_cloning.pdf&#34;&gt;No-Cloning Theorem&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </description>
@@ -29,10 +34,11 @@
       <link>http://chunghao.github.io/resources/</link>
       <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
       <guid>http://chunghao.github.io/resources/</guid>
-      <description>&lt;p&gt;Below are some useful resources and links that help my academic carear a lot!&lt;/p&gt;
+      <description>&lt;p&gt;Below are some useful resources and links that help my academic carear!&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/resources/knuth_mathematical_writing.pdf&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://introtcs.org/public/index.html&#34; target=&#34;_blank&#34;&gt;Introduction to Theoretical Computer Science&lt;/a&gt; by Boaz Barak&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
