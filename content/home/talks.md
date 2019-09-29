@@ -89,7 +89,10 @@ NTUEE group seminar (May 1, 2018)
 NTUEE group seminar (March 22, 2018)
 
 
+#### Introduction to Provable Security [\[slides\]](/talks/provableSecurity.pdf)
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+QKD seminar in NTU (Oct 31, 2017)
 
 
 
