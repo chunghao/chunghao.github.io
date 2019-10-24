@@ -43,6 +43,12 @@ subtitle = ""
  css_class = ""
 +++
 
+#### Introduction to Quantum Computing [\[slides (Chinese)\]](/talks/intro_quantum_zh.pdf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ChungHwa Telecom (Oct 21, 2019)
+
+
 #### Blockchains with Proof-of-Stake [\[slides\]](/talks/PoSblockchain.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
