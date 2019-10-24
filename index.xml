@@ -34,11 +34,33 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
       <link>http://chunghao.github.io/resources/</link>
       <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
       <guid>http://chunghao.github.io/resources/</guid>
-      <description>&lt;p&gt;Below are some useful resources and links that help my academic carear!&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Below are some useful resources and links that help my academic carear!&lt;/p&gt;
+
+&lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/resources/knuth_mathematical_writing.pdf&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://introtcs.org/public/index.html&#34; target=&#34;_blank&#34;&gt;Introduction to Theoretical Computer Science&lt;/a&gt; by Boaz Barak&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;quantum-computing&#34;&gt;Quantum Computing&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#&#34; target=&#34;_blank&#34;&gt;Quantum Computation and Quantum Information&lt;/a&gt; by Michael A. Nielsen and Isaac L. Chuang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.markwilde.com/&#34; target=&#34;_blank&#34;&gt;Quantum Information Theory&lt;/a&gt; by Mark Wilde&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs.uwaterloo.ca/~watrous/LectureNotes.html&#34; target=&#34;_blank&#34;&gt;John Watrous&amp;rsquo;s Lecture Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theory.caltech.edu/people/preskill/ph229/&#34; target=&#34;_blank&#34;&gt;Quantum Computation Lecture Notes&lt;/a&gt; by John Preskill and Alexei Kitaev&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/quantum-cryptography-0&#34; target=&#34;_blank&#34;&gt;Quantum Cryptography at edX&lt;/a&gt; by Thomas Vidick and Stephanie Wehner&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;cryptography&#34;&gt;Cryptography&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.umd.edu/~jkatz/imc.html&#34; target=&#34;_blank&#34;&gt;Introduction to Modern Cryptography&lt;/a&gt; by Jonathan Katz and Yehuda Lindell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.brown.edu/~jhs/MathCryptoHome.html&#34; target=&#34;_blank&#34;&gt;An Introduction to Mathematical Cryptography&lt;/a&gt; by Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wisdom.weizmann.ac.il/~oded/foc-book.html&#34; target=&#34;_blank&#34;&gt;The Foundations of Cryptography&lt;/a&gt; by Oded Goldreich&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
