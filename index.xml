@@ -62,15 +62,25 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
 &lt;li&gt;&lt;a href=&#34;https://www.math.brown.edu/~jhs/MathCryptoHome.html&#34; target=&#34;_blank&#34;&gt;An Introduction to Mathematical Cryptography&lt;/a&gt; by Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.wisdom.weizmann.ac.il/~oded/foc-book.html&#34; target=&#34;_blank&#34;&gt;The Foundations of Cryptography&lt;/a&gt; by Oded Goldreich&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h3 id=&#34;multiparty-computation&#34;&gt;Multiparty Computation&lt;/h3&gt;
+
+&lt;p&gt;Here are some video courses on multiparty computation (MPC):
+&lt;a href=&#34;https://cyber.biu.ac.il/event/the-5th-biu-winter-school/&#34; target=&#34;_blank&#34;&gt;1.&lt;/a&gt; &lt;a href=&#34;http://u.cs.biu.ac.il/~lindell/mpcschool.html&#34; target=&#34;_blank&#34;&gt;2.&lt;/a&gt; &lt;a href=&#34;http://ecrypt-eu.blogspot.com/2015/11/video-lectures-for-multiparty.html&#34; target=&#34;_blank&#34;&gt;3.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Talks</title>
-      <link>http://chunghao.github.io/talks/</link>
-      <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
-      <guid>http://chunghao.github.io/talks/</guid>
-      <description></description>
+      <title>Personal</title>
+      <link>http://chunghao.github.io/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://chunghao.github.io/personal/</guid>
+      <description>
+
+&lt;h1 id=&#34;personal&#34;&gt;Personal&lt;/h1&gt;
+
+&lt;p&gt;Here are something cool that I have done&lt;/p&gt;
+</description>
     </item>
     
   </channel>
