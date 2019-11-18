@@ -18,7 +18,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#D5D8DC"
+  # color = "#D5D8DC"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -48,7 +48,6 @@ subtitle = ""
   By Tzu-Wei Chao, Hao Chung, and Po-Chun Kuo
   
 [\[arXiv\]](https://arxiv.org/abs/1907.03437) [\[PDF\]](/files/FairByzantineAgreements.pdf)
-
 
 
 **Analysis and Comparison of Security Proofs of Quantum Key Distribution**

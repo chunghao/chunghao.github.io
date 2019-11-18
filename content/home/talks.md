@@ -55,7 +55,7 @@ ChungHwa Telecom (Oct 21, 2019)
 Summer School for Cryptography in Academia Sinica (July 29, 2019)
   
 
-#### Computational Complexity [\[slides\]](/talks/computational_complexity.pdf)
+#### Asymptotic Notations and Computational Complexity [\[slides\]](/talks/computational_complexity.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 Summer School for Cryptography in Academia Sinica (July 17, 2017), (July 18, 2019)

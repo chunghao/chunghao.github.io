@@ -25,3 +25,9 @@ Below are some useful resources and links that help my academic carear!
 1. [Introduction to Modern Cryptography](https://www.cs.umd.edu/~jkatz/imc.html) by Jonathan Katz and Yehuda Lindell
 2. [An Introduction to Mathematical Cryptography](https://www.math.brown.edu/~jhs/MathCryptoHome.html) by Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman
 3. [The Foundations of Cryptography](http://www.wisdom.weizmann.ac.il/~oded/foc-book.html) by Oded Goldreich
+
+
+### Multiparty Computation
+
+Here are some video courses on multiparty computation (MPC):
+[1.](https://cyber.biu.ac.il/event/the-5th-biu-winter-school/) [2.](http://u.cs.biu.ac.il/~lindell/mpcschool.html) [3.](http://ecrypt-eu.blogspot.com/2015/11/video-lectures-for-multiparty.html)
