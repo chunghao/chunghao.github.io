@@ -10,4 +10,6 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
 
 1. [Sample Space and Probability](/notes/sampleSpace.pdf)
 2. [Vector Space](/notes/vectorSpace.pdf)
-2. [No-Cloning Theorem](/notes/no_cloning.pdf)
+3. [No-Cloning Theorem](/notes/no_cloning.pdf)
+4. [reference of QKD literatures](/notes/qkd_reference.pdf)
+
