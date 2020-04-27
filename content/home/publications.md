@@ -44,14 +44,21 @@ subtitle = ""
 +++
 
 **Fair byzantine agreements for blockchains**
-  
-  By Tzu-Wei Chao, Hao Chung, and Po-Chun Kuo
-  
-[\[arXiv\]](https://arxiv.org/abs/1907.03437) [\[PDF\]](/files/FairByzantineAgreements.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Po-Chun Kuo, Hao Chung, Tzu-Wei Chao and Chen-Mou Cheng
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  IEEE Access, vol. 8, pp. 70746-70761, 2020
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[\[Journal version\]](https://ieeexplore.ieee.org/document/9062491?source=authoralert)
 
 
 **Analysis and Comparison of Security Proofs of Quantum Key Distribution**
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   My master thesis
-
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [\[PDF\]](/files/ntumasterthesis.pdf)
