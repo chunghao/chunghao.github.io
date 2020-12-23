@@ -23,6 +23,7 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
 
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/sampleSpace.pdf&#34;&gt;Sample Space and Probability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/randomVariables.pdf&#34;&gt;Random Variables and Distributions&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/vectorSpace.pdf&#34;&gt;Vector Space&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/no_cloning.pdf&#34;&gt;No-Cloning Theorem&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/qkd_reference.pdf&#34;&gt;reference of QKD literatures&lt;/a&gt;&lt;/li&gt;
@@ -42,7 +43,13 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
 &lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/resources/knuth_mathematical_writing.pdf&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf&#34; target=&#34;_blank&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hkumath.hku.hk/web/teaching/guide_to_writing_mathematics.pdf&#34; target=&#34;_blank&#34;&gt;Guide to Writing Mathematics&lt;/a&gt; lecture note at The University of Hong Kong&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;computer-science&#34;&gt;Computer Science&lt;/h3&gt;
+
+&lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;https://introtcs.org/public/index.html&#34; target=&#34;_blank&#34;&gt;Introduction to Theoretical Computer Science&lt;/a&gt; by Boaz Barak&lt;/li&gt;
 &lt;/ol&gt;
 
