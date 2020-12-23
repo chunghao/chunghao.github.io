@@ -22,7 +22,7 @@ bio: I am an enthusiastic learner and researcher in theoretical computer science
 
 interests:
 - Cryptography
-- Quantum Information
+- Quantum Computing
 - Blockchain
 
 education:
@@ -65,7 +65,12 @@ Previously, I was a blockchain researcher at DEXON foundation.
 I got my master's degree in electrical engineering from National Taiwan University, where I was advised by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/) and [Chen-Mou Cheng](http://ee.ntu.edu.tw/article/teacher.person/jobSN/3/navSN/530/webSN/645/teacherSN/122).
 I got my bachelor's degree from National Taiwan University, where I majored in physics and minored in philosophy.
 
+
+### CV
 You can find [my curriculum vitae here](files/cv.pdf).
+
+### Contact
+Email: b01202058 at ntu dot edu dot tw
 
 
 

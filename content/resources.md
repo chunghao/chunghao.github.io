@@ -8,8 +8,11 @@ Below are some useful resources and links that help my academic carear!
 
 ### General
 
-1. [Mathematical Writing](/resources/knuth_mathematical_writing.pdf) by Donald E. Knuth
-2. [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html) by Boaz Barak
+1. [Mathematical Writing](https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf) by Donald E. Knuth
+2. [Guide to Writing Mathematics](https://hkumath.hku.hk/web/teaching/guide_to_writing_mathematics.pdf) lecture note at The University of Hong Kong 
+
+### Computer Science
+1. [Introduction to Theoretical Computer Science](https://introtcs.org/public/index.html) by Boaz Barak
 
 
 ### Quantum Computing

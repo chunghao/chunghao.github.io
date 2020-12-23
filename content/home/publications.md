@@ -43,6 +43,14 @@ subtitle = ""
  css_class = ""
 +++
 
+**Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort**
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Bar Alon, Hao Chung, Kai-Min Chung, Mi-Ying Huang, Yi Lee and Yu-Ching Shen
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[\[ePrint\]](https://eprint.iacr.org/2020/1464)
+
 **Fair byzantine agreements for blockchains**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
