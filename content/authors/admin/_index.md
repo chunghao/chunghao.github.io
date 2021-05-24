@@ -10,20 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Academia Sinica
+- name: Carnegie Mellon Univ
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an enthusiastic learner and researcher in theoretical computer science.
 
 interests:
-- Cryptography
-- Quantum Computing
-- Blockchain
+- Theoretical Computer Science
+
 
 education:
   courses:
@@ -58,19 +57,16 @@ user_groups:
 - Visitors
 ---
 
-I am an enthusiastic learner and researcher in theoretical computer science, especially in cryptography and quantum information.
-My current job is a research assistant at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html), hosted by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/).
+I am a PhD student in the department of Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Elaine Shi](http://elaineshi.com/) as my advisor.
 
-Previously, I was a blockchain researcher at DEXON foundation.
-I got my master's degree in electrical engineering from National Taiwan University, where I was advised by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/) and [Chen-Mou Cheng](http://ee.ntu.edu.tw/article/teacher.person/jobSN/3/navSN/530/webSN/645/teacherSN/122).
-I got my bachelor's degree from National Taiwan University, where I majored in physics and minored in philosophy.
+Previously, I was a research assistant at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html), hosted by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/). Before that, I was a blockchain researcher at DEXON foundation. I got my master's degree in electrical engineering from National Taiwan University, and I got my bachelor's degree from [National Taiwan University](https://www.ntu.edu.tw/english/), where I majored in physics and minored in philosophy.
 
 
 ### CV
 You can find [my curriculum vitae here](files/cv.pdf).
 
 ### Contact
-Email: b01202058 at ntu dot edu dot tw
+Email: haochung [at] andrew.cmu.edu
 
 
 
