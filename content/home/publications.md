@@ -49,6 +49,9 @@ subtitle = ""
   By Bar Alon, Hao Chung, Kai-Min Chung, Mi-Ying Huang, Yi Lee and Yu-Ching Shen
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  CRYPTO, 2021
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [\[ePrint\]](https://eprint.iacr.org/2020/1464)
 
 **Fair byzantine agreements for blockchains**
