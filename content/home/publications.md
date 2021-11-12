@@ -43,6 +43,14 @@ subtitle = ""
  css_class = ""
 +++
 
+**Foundations of Transaction Fee Mechanism Design**
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Hao Chung and Elaine Shi
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [\[arXiv\]](https://arxiv.org/abs/2111.03151)
+
 **Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

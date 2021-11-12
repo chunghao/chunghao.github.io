@@ -18,20 +18,20 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am an enthusiastic learner and researcher in theoretical computer science.
+# bio: I am an enthusiastic learner and researcher in theoretical computer science.
 
-interests:
-- Theoretical Computer Science
+# interests:
+# - Theoretical Computer Science
 
 
-education:
-  courses:
-  - course: M.S. in Electrical Engineering
-    institution: National Taiwan University
-    year: 2018
-  - course: B.S. in Physics
-    institution: National Taiwan University
-    year: 2016
+# education:
+#   courses:
+#   - course: M.S. in Electrical Engineering
+#     institution: National Taiwan University
+#     year: 2018
+#   - course: B.S. in Physics
+#     institution: National Taiwan University
+#     year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
