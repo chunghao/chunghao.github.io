@@ -60,7 +60,7 @@ subtitle = ""
   CRYPTO, 2021
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[\[ePrint\]](https://eprint.iacr.org/2020/1464)
+[\[ePrint\]](https://eprint.iacr.org/2020/1464) [\[Yi's talk\]](https://www.youtube.com/watch?v=eknh-gGJZyM&t=7s&ab_channel=TheIACR)
 
 **Fair byzantine agreements for blockchains**
 
