@@ -65,7 +65,7 @@ subtitle = ""
   By Per Austrin, Hao Chung, Kai-Min Chung, Shiuan Fu, Yao-Ting Lin, and Mohammad Mahmoody
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  CRYPTO, 2021
+  CRYPTO, 2022
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [\[ePrint\]](https://eprint.iacr.org/2022/218)
