@@ -43,6 +43,14 @@ subtitle = ""
  css_class = ""
 +++
 
+**Ponyta: Foundations of Side-Contract-Resilient Fair Exchange**
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Hao Chung, Elisaweta Masserova, Elaine Shi and Sri AravindaKrishnan Thyagarajan
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [\[ePrint\]](https://eprint.iacr.org/2022/582)
+
 **Foundations of Transaction Fee Mechanism Design**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -50,6 +58,17 @@ subtitle = ""
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [\[arXiv\]](https://arxiv.org/abs/2111.03151)
+
+**On the Impossibility of Key Agreements from Quantum Random Oracles**
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Per Austrin, Hao Chung, Kai-Min Chung, Shiuan Fu, Yao-Ting Lin, and Mohammad Mahmoody
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  CRYPTO, 2021
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [\[ePrint\]](https://eprint.iacr.org/2022/218)
 
 **Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort**
 
@@ -60,7 +79,7 @@ subtitle = ""
   CRYPTO, 2021
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[\[ePrint\]](https://eprint.iacr.org/2020/1464) [\[Yi's talk\]](https://www.youtube.com/watch?v=eknh-gGJZyM&t=7s&ab_channel=TheIACR)
+  [\[ePrint\]](https://eprint.iacr.org/2020/1464) [\[Yi's talk\]](https://www.youtube.com/watch?v=eknh-gGJZyM&t=7s&ab_channel=TheIACR)
 
 **Fair byzantine agreements for blockchains**
 
