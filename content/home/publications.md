@@ -65,8 +65,7 @@ subtitle = ""
   By Hao Chung and Elaine Shi
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  In SODA, 2023. \\ 
-  Also selected for "Highlights Beyond EC,"" special plenary session at EC, 2022.
+  In SODA, 2023. Also selected for "Highlights Beyond EC,"" special plenary session at EC, 2022.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [\[arXiv\]](https://arxiv.org/abs/2111.03151)
