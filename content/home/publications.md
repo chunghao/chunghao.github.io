@@ -43,18 +43,30 @@ subtitle = ""
  css_class = ""
 +++
 
-**Ponyta: Foundations of Side-Contract-Resilient Fair Exchange**
+**What Can Cryptography Do For Decentralized Mechanism Design**
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Elaine Shi, Hao Chung, Ke Wu (randomized author order)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [\[arXiv\]](https://arxiv.org/abs/2209.14462)
+
+**Rapidash: Foundations of Side-Contract-Resilient Fair Exchange**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung, Elisaweta Masserova, Elaine Shi and Sri AravindaKrishnan Thyagarajan
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [\[ePrint\]](https://eprint.iacr.org/2022/582)
+  [\[ePrint\]](https://eprint.iacr.org/2022/1063)
 
 **Foundations of Transaction Fee Mechanism Design**
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung and Elaine Shi
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  In SODA, 2023. \\ 
+  Also selected for "Highlights Beyond EC,"" special plenary session at EC, 2022.
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [\[arXiv\]](https://arxiv.org/abs/2111.03151)
