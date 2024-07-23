@@ -5,7 +5,7 @@
     <link>http://chunghao.github.io/</link>
       <atom:link href="http://chunghao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Hao Chung</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2022 chunghao</copyright><lastBuildDate>Sat, 31 Aug 2019 14:55:14 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2024 chunghao</copyright>
     <image>
       <url>http://chunghao.github.io/img/icon-192.png</url>
       <title>Hao Chung</title>
@@ -20,7 +20,6 @@
       <description>&lt;p&gt;Writing usually helps me think deeper.
 These notes are designed for quick references, but not for a tutorial read from cover to cover.
 The materials mainly focus on definitions, theorems, proofs and some conceptual interpretations.&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/sampleSpace.pdf&#34;&gt;Sample Space and Probability&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://chunghao.github.io/notes/randomVariables.pdf&#34;&gt;Random Variables and Distributions&lt;/a&gt;&lt;/li&gt;
@@ -36,45 +35,33 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
       <link>http://chunghao.github.io/resources/</link>
       <pubDate>Sat, 31 Aug 2019 14:55:14 +0800</pubDate>
       <guid>http://chunghao.github.io/resources/</guid>
-      <description>
-
-&lt;p&gt;Below are some useful resources and links that help my academic carear!&lt;/p&gt;
-
+      <description>&lt;p&gt;Below are some useful resources and links that help my academic carear!&lt;/p&gt;
 &lt;h3 id=&#34;general&#34;&gt;General&lt;/h3&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf&#34; target=&#34;_blank&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://hkumath.hku.hk/web/teaching/guide_to_writing_mathematics.pdf&#34; target=&#34;_blank&#34;&gt;Guide to Writing Mathematics&lt;/a&gt; lecture note at The University of Hong Kong&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf&#34;&gt;Mathematical Writing&lt;/a&gt; by Donald E. Knuth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hkumath.hku.hk/web/teaching/guide_to_writing_mathematics.pdf&#34;&gt;Guide to Writing Mathematics&lt;/a&gt; lecture note at The University of Hong Kong&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h3 id=&#34;computer-science&#34;&gt;Computer Science&lt;/h3&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://introtcs.org/public/index.html&#34; target=&#34;_blank&#34;&gt;Introduction to Theoretical Computer Science&lt;/a&gt; by Boaz Barak&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://introtcs.org/public/index.html&#34;&gt;Introduction to Theoretical Computer Science&lt;/a&gt; by Boaz Barak&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h3 id=&#34;quantum-computing&#34;&gt;Quantum Computing&lt;/h3&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#&#34; target=&#34;_blank&#34;&gt;Quantum Computation and Quantum Information&lt;/a&gt; by Michael A. Nielsen and Isaac L. Chuang&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.markwilde.com/&#34; target=&#34;_blank&#34;&gt;Quantum Information Theory&lt;/a&gt; by Mark Wilde&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cs.uwaterloo.ca/~watrous/LectureNotes.html&#34; target=&#34;_blank&#34;&gt;John Watrous&amp;rsquo;s Lecture Notes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.theory.caltech.edu/people/preskill/ph229/&#34; target=&#34;_blank&#34;&gt;Quantum Computation Lecture Notes&lt;/a&gt; by John Preskill and Alexei Kitaev&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/quantum-cryptography-0&#34; target=&#34;_blank&#34;&gt;Quantum Cryptography at edX&lt;/a&gt; by Thomas Vidick and Stephanie Wehner&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cambridge.org/core/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#&#34;&gt;Quantum Computation and Quantum Information&lt;/a&gt; by Michael A. Nielsen and Isaac L. Chuang&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.markwilde.com/&#34;&gt;Quantum Information Theory&lt;/a&gt; by Mark Wilde&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cs.uwaterloo.ca/~watrous/LectureNotes.html&#34;&gt;John Watrous&amp;rsquo;s Lecture Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.theory.caltech.edu/people/preskill/ph229/&#34;&gt;Quantum Computation Lecture Notes&lt;/a&gt; by John Preskill and Alexei Kitaev&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.edx.org/course/quantum-cryptography-0&#34;&gt;Quantum Cryptography at edX&lt;/a&gt; by Thomas Vidick and Stephanie Wehner&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h3 id=&#34;cryptography&#34;&gt;Cryptography&lt;/h3&gt;
-
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.cs.umd.edu/~jkatz/imc.html&#34; target=&#34;_blank&#34;&gt;Introduction to Modern Cryptography&lt;/a&gt; by Jonathan Katz and Yehuda Lindell&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.math.brown.edu/~jhs/MathCryptoHome.html&#34; target=&#34;_blank&#34;&gt;An Introduction to Mathematical Cryptography&lt;/a&gt; by Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wisdom.weizmann.ac.il/~oded/foc-book.html&#34; target=&#34;_blank&#34;&gt;The Foundations of Cryptography&lt;/a&gt; by Oded Goldreich&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cs.umd.edu/~jkatz/imc.html&#34;&gt;Introduction to Modern Cryptography&lt;/a&gt; by Jonathan Katz and Yehuda Lindell&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.brown.edu/~jhs/MathCryptoHome.html&#34;&gt;An Introduction to Mathematical Cryptography&lt;/a&gt; by Jeffrey Hoffstein, Jill Pipher and Joseph H. Silverman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wisdom.weizmann.ac.il/~oded/foc-book.html&#34;&gt;The Foundations of Cryptography&lt;/a&gt; by Oded Goldreich&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h3 id=&#34;multiparty-computation&#34;&gt;Multiparty Computation&lt;/h3&gt;
-
 &lt;p&gt;Here are some video courses on multiparty computation (MPC):
-&lt;a href=&#34;https://cyber.biu.ac.il/event/the-5th-biu-winter-school/&#34; target=&#34;_blank&#34;&gt;1.&lt;/a&gt; &lt;a href=&#34;http://u.cs.biu.ac.il/~lindell/mpcschool.html&#34; target=&#34;_blank&#34;&gt;2.&lt;/a&gt; &lt;a href=&#34;http://ecrypt-eu.blogspot.com/2015/11/video-lectures-for-multiparty.html&#34; target=&#34;_blank&#34;&gt;3.&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://cyber.biu.ac.il/event/the-5th-biu-winter-school/&#34;&gt;1.&lt;/a&gt; &lt;a href=&#34;http://u.cs.biu.ac.il/~lindell/mpcschool.html&#34;&gt;2.&lt;/a&gt; &lt;a href=&#34;http://ecrypt-eu.blogspot.com/2015/11/video-lectures-for-multiparty.html&#34;&gt;3.&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -83,12 +70,17 @@ The materials mainly focus on definitions, theorems, proofs and some conceptual 
       <link>http://chunghao.github.io/personal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://chunghao.github.io/personal/</guid>
-      <description>
-
-&lt;h1 id=&#34;personal&#34;&gt;Personal&lt;/h1&gt;
-
+      <description>&lt;h1 id=&#34;personal&#34;&gt;Personal&lt;/h1&gt;
 &lt;p&gt;Here are something cool that I have done&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://chunghao.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://chunghao.github.io/publication/</guid>
+      <description></description>
     </item>
     
   </channel>
