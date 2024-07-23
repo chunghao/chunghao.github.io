@@ -57,13 +57,14 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the department of Electrical and Computer Engineering at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Elaine Shi](http://elaineshi.com/) as my advisor.
+I am a final year PhD student in electrical and computer engineering at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Elaine Shi](http://elaineshi.com/) as my advisor.
+My research lies in the intersection between mechanism design and cryptography.
 
 Previously, I was a research assistant at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html), hosted by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/). Before that, I was a blockchain researcher at DEXON foundation. I got my master's degree in electrical engineering from National Taiwan University, and I got my bachelor's degree from [National Taiwan University](https://www.ntu.edu.tw/english/), where I majored in physics and minored in philosophy.
 
 
-### CV
-You can find [my curriculum vitae here](files/cv.pdf).
+### CV & Google Scholar
+You can find [my curriculum vitae](files/cv.pdf) and [Google Scholar profile](https://scholar.google.com/citations?user=N2LAzXEAAAAJ&hl=en) here.
 
 ### Contact
 Email: haochung [at] andrew.cmu.edu

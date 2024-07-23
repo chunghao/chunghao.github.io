@@ -43,7 +43,69 @@ subtitle = ""
  css_class = ""
 +++
 
-#### Introduction to Quantum Computing [\[slides (Chinese)\]](/talks/intro_quantum_zh.pdf)
+#### Collusion-Resilience in Transaction Fee Mechanism Design 
+<!-- [\[slides (Chinese)\]](/talks/intro_quantum_zh.pdf) -->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ACM Conference on Economics and Computation, USA (07/11/2024)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CMU Secure Blockchain Summit, USA (04/16/2024)
+
+#### Maximizing Miner Revenue in Transaction Fee Mechanism Design
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Innovations in Theoretical Computer Science, USA (02/01/2024)
+
+#### What Can Cryptography Do for Decentralized Mechanism Design
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Institute of Information Science, Academia Sinica, Taiwan (02/22/2024)
+
+#### Rapidash: Foundations of Side-Contract-Resilient Fair Exchange
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+IC3 Blockchain Camp, USA (06/17/2023)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CMU Secure Blockchain Summit, USA (05/08/2023)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CryptoEconDay @ Consensus, USA (04/25/2023)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Institute of Information Science, Academia Sinica, Taiwan (12/30/2022)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Crypto Economics Security Conference 2022, USA (10/31/2022)
+
+#### Foundations of Transaction Fee Mechanism Design
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ACM-SIAM Symposium on Discrete Algorithms, Italy (01/24/2023)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Science of Blockchain Conference 2022, USA (08/29/2022)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+UCSB Deﬁ-Crypto Seminar, USA (05/27/2022)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Institute of Information Science, Academia Sinica, Taiwan (01/11/2022)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CMU Theory Lunch, USA (11/17/2021)
+
+#### Introduction to Quantum Computing
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ChungHwa Telecom, Taiwan (10/19/2019, 12/08/2020)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+National Chung-Shan Institute of Science and Technology, Taiwan (09/06/2017, 09/13/2017)
+
+
+<!-- #### Introduction to Quantum Computing [\[slides (Chinese)\]](/talks/intro_quantum_zh.pdf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ChungHwa Telecom (Oct 21, 2019)
@@ -99,7 +161,7 @@ NTUEE group seminar (March 22, 2018)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 QKD seminar in NTU (Oct 31, 2017)
-
+ -->
 
 
 

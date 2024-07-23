@@ -43,56 +43,65 @@ subtitle = ""
  css_class = ""
 +++
 
-**What Can Cryptography Do For Decentralized Mechanism Design**
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  By Elaine Shi, Hao Chung, Ke Wu (randomized author order)
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [\[arXiv\]](https://arxiv.org/abs/2209.14462)
-
-**Rapidash: Foundations of Side-Contract-Resilient Fair Exchange**
+[**Rapidash: Foundations of Side-Contract-Resilient Fair Exchange**](https://eprint.iacr.org/2022/1063)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung, Elisaweta Masserova, Elaine Shi and Sri AravindaKrishnan Thyagarajan
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [\[ePrint\]](https://eprint.iacr.org/2022/1063)
+  In Science of Blockchain Conference (SBC), 2024.
 
-**Foundations of Transaction Fee Mechanism Design**
+[**Collusion-Resilience inTtransaction Fee Mechanism Design**](https://arxiv.org/abs/2402.09321)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Hao Chung, Tim Roughgarden, Elaine Shi
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  In ACM Conference on Economics and Computation (EC), 2024.
+
+[**Maximizing Miner Revenue in Transaction Fee Mechanism Design**](https://arxiv.org/abs/2302.12895)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Ke Wu, Elaine Shi, Hao Chung (randomized author order)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  In Innovations in Theoretical Computer Science (ITCS), 2024.
+
+[**What Can Cryptography Do For Decentralized Mechanism Design**](https://arxiv.org/abs/2209.14462)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Elaine Shi, Hao Chung, Ke Wu (randomized author order)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  In Innovations in Theoretical Computer Science (ITCS), 2023.
+
+[**Foundations of Transaction Fee Mechanism Design**](https://arxiv.org/abs/2111.03151)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung and Elaine Shi
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  In SODA, 2023. Also selected for "Highlights Beyond EC,"" special plenary session at EC, 2022.
+  In SODA, 2023. Also selected for "Highlights Beyond EC," special plenary session at EC, 2022.
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [\[arXiv\]](https://arxiv.org/abs/2111.03151)
-
-**On the Impossibility of Key Agreements from Quantum Random Oracles**
+[**On the Impossibility of Key Agreements from Quantum Random Oracles**](https://eprint.iacr.org/2022/218)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Per Austrin, Hao Chung, Kai-Min Chung, Shiuan Fu, Yao-Ting Lin, and Mohammad Mahmoody
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  CRYPTO, 2022
+  In International Cryptology Conference (CRYPTO), 2022
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [\[ePrint\]](https://eprint.iacr.org/2022/218)
-
-**Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort**
+[**Round Efficient Secure Multiparty Quantum Computation with Identifiable Abort**](https://eprint.iacr.org/2020/1464)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Bar Alon, Hao Chung, Kai-Min Chung, Mi-Ying Huang, Yi Lee and Yu-Ching Shen
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  CRYPTO, 2021
+  In International Cryptology Conference (CRYPTO), 2021
+  <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+   <!-- [\[Yi's talk\]](https://www.youtube.com/watch?v=eknh-gGJZyM&t=7s&ab_channel=TheIACR) -->
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  [\[ePrint\]](https://eprint.iacr.org/2020/1464) [\[Yi's talk\]](https://www.youtube.com/watch?v=eknh-gGJZyM&t=7s&ab_channel=TheIACR)
-
-**Fair byzantine agreements for blockchains**
+[**Fair byzantine agreements for blockchains**](https://ieeexplore.ieee.org/document/9062491?source=authoralert)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Po-Chun Kuo, Hao Chung, Tzu-Wei Chao and Chen-Mou Cheng
@@ -100,14 +109,7 @@ subtitle = ""
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   IEEE Access, vol. 8, pp. 70746-70761, 2020
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[\[Journal version\]](https://ieeexplore.ieee.org/document/9062491?source=authoralert)
-
-
-**Analysis and Comparison of Security Proofs of Quantum Key Distribution**
+[**Analysis and Comparison of Security Proofs of Quantum Key Distribution**](/files/ntumasterthesis.pdf)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   My master thesis
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[\[PDF\]](/files/ntumasterthesis.pdf)

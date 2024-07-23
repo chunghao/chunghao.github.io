@@ -18,20 +18,20 @@
   url = "#talks"
   weight = 10
 
-[[main]]
-  name = "Notes"
-  url = "notes"
-  weight = 15
-
-[[main]]
-  name = "Resources"
-  url = "resources"
-  weight = 20
-
-[[main]]
-  name = "Personal"
-  url = "personal"
-  weight = 25
+# [[main]]
+#   name = "Notes"
+#   url = "notes"
+#   weight = 15
+# 
+# [[main]]
+#   name = "Resources"
+#   url = "resources"
+#   weight = 20
+# 
+# [[main]]
+#   name = "Personal"
+#   url = "personal"
+#   weight = 25
 
 
 # Link to a PDF of your resume/CV from the menu.
