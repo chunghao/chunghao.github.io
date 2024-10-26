@@ -51,7 +51,7 @@ subtitle = ""
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   In Science of Blockchain Conference (SBC), 2024.
 
-[**Collusion-Resilience inTtransaction Fee Mechanism Design**](https://arxiv.org/abs/2402.09321)
+[**Collusion-Resilience in Transaction Fee Mechanism Design**](https://arxiv.org/abs/2402.09321)
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung, Tim Roughgarden, Elaine Shi
