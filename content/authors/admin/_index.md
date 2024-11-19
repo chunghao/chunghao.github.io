@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -56,6 +56,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+**I am currently on the academic job market!**
 
 I am a final year PhD student in electrical and computer engineering at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Elaine Shi](http://elaineshi.com/) as my advisor.
 My research lies in the intersection between mechanism design and cryptography.
