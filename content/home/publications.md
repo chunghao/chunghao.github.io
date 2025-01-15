@@ -43,6 +43,14 @@ subtitle = ""
  css_class = ""
 +++
 
+
+
+[**Foundations of Platform-Assisted Auctions**](https://arxiv.org/abs/2501.03141v1)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Hao Chung, Ke Wu and Elaine Shi (randomized author order)
+
+
 [**Rapidash: Foundations of Side-Contract-Resilient Fair Exchange**](https://eprint.iacr.org/2022/1063)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
