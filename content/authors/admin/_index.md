@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Hao Chung (Chinese:鍾豪)
+name: Hao Chung (鍾豪)
 
 # Username (this should match the folder name)
 authors:
@@ -45,7 +45,7 @@ organizations:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf -->
+  link: files/haochung-cv.pdf -->
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

@@ -50,6 +50,9 @@ subtitle = ""
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung, Ke Wu and Elaine Shi (randomized author order)
 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  In International Cryptology Conference (CRYPTO), 2025.
+
 
 [**Rapidash: Foundations of Side-Contract-Resilient Fair Exchange**](https://eprint.iacr.org/2022/1063)
 
@@ -57,7 +60,7 @@ subtitle = ""
   By Hao Chung, Elisaweta Masserova, Elaine Shi and Sri AravindaKrishnan Thyagarajan
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  In Science of Blockchain Conference (SBC), 2024.
+  In Financial Cryptography and Data Security (FC), 2025.
 
 [**Collusion-Resilience in Transaction Fee Mechanism Design**](https://arxiv.org/abs/2402.09321)
   
