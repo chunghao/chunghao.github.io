@@ -54,7 +54,7 @@ subtitle = ""
   In International Cryptology Conference (CRYPTO), 2025.
 
 
-[**Rapidash: Foundations of Side-Contract-Resilient Fair Exchange**](https://eprint.iacr.org/2022/1063)
+[**Rapidash: Atomic Swaps Secure under User-Miner Collusion**](https://eprint.iacr.org/2022/1063)
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   By Hao Chung, Elisaweta Masserova, Elaine Shi and Sri AravindaKrishnan Thyagarajan
