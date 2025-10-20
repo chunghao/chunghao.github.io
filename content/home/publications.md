@@ -44,6 +44,14 @@ subtitle = ""
 +++
 
 
+[**Fairness in the Wild: Secure Atomic Swap with External Incentives**](https://eprint.iacr.org/2025/1086)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  By Hao Chung, Elisaweta Masserova, Elaine Shi and Sri AravindaKrishnan Thyagarajan
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [IACR ePrint](https://eprint.iacr.org/2025/1086)
+
 
 [**Foundations of Platform-Assisted Auctions**](https://arxiv.org/abs/2501.03141v1)
 

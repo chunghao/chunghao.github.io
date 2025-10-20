@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon Univ
-  url: ""
+- name: LayerZero Labs
+  url: "https://layerzero.network/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: I am an enthusiastic learner and researcher in theoretical computer science.
@@ -57,10 +57,14 @@ user_groups:
 - Visitors
 ---
 
-I recently completed my PhD at [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to have [Elaine Shi](http://elaineshi.com/) as my advisor.
-My research lies in the intersection between mechanism design and cryptography with a focus on blockchain technologies.
+I am a research engineer at [LayerZero Labs](https://layerzero.network/), 
+where my work lies at the intersection of mechanism design and cryptography, with a particular focus on blockchain technologies.
 
-Previously, I was a research assistant at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html), hosted by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/). Before that, I was a blockchain researcher at DEXON foundation. I got my master's degree in electrical engineering from National Taiwan University, and I got my bachelor's degree from [National Taiwan University](https://www.ntu.edu.tw/english/), where I majored in physics and minored in philosophy.
+I recently completed my PhD at [Carnegie Mellon University](https://www.cmu.edu/), where I was fortunate to have [Elaine Shi](http://elaineshi.com/) as my advisor.
+Before that, I was a research assistant at [Academia Sinica](https://www.iis.sinica.edu.tw/index_en.html), hosted by [Kai-Min Chung](https://www.iis.sinica.edu.tw/~kmchung/). 
+Earlier in my career, I was a blockchain researcher at DEXON foundation. 
+
+I hold a master’s degree in Electrical Engineering and a bachelor’s degree in Physics (with a minor in Philosophy) from [National Taiwan University](https://www.ntu.edu.tw/english/).
 
 
 ### CV & Google Scholar
