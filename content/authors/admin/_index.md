@@ -68,7 +68,7 @@ I hold a master’s degree in Electrical Engineering and a bachelor’s degree i
 
 
 ### CV & Google Scholar
-You can find [my curriculum vitae](files/haochung-cv.pdf) and [Google Scholar profile](https://scholar.google.com/citations?user=N2LAzXEAAAAJ&hl=en) here.
+You can find [my curriculum vitae](files/haochung-cv.pdf) and [Google Scholar profile](https://scholar.google.com/citations?user=N2LAzXEAAAAJ&hl=en) here
 
 ### Contact
 Email: haochung [at] andrew.cmu.edu
